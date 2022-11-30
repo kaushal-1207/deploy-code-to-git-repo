@@ -17,19 +17,21 @@ git init
 git add README.md
 ````
 
-## Step 4: Add README.md File if not Present
+## Step 4: Check Status of Your Files
 
 ```javascript 
-git commit -m "Your Commit Message"
+git status
 ````
 
-## Step 5:
+## Step 5: Commit Untracked FIles
 
 ```javascript 
-git branch -M main
+git add .
 ````
 
-## Step 6: 
+## Step 6: Verify Status if Any Untracked Files then Repeat Above Step
+
+## Step 7:
 
 ```javascript 
 git remote add origin https://github.com/git-username/your_repo_name.git
