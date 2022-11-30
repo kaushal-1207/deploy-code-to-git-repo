@@ -37,7 +37,7 @@ git add .
 git remote add origin https://github.com/git-username/your_repo_name.git
 ````
 
-## Step 7: Push Code to GIT Repo
+## Step 8: Push Code to GIT Repo
 
 ```javascript
 git push -u origin branch_name
